@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0",
+        "subject": "Please Help Me Stay Mobile",
+        "cost": 1500,
+        "body": "<p>Dear OctoAid,</p><p>My name is Emma, and I’m reaching out because my wheelchair is falling apart. The frame has cracks, and one of the wheels wobbles constantly, making it unsafe to use. I rely on it daily to get to work and visit my family. A new one would cost $1,500, which I can’t afford on my income. Any help would mean the world to me.</p><p>Thank you for considering my request,<br>Emma Sullivan</p>"
+    },
+    {
+        "id": "1",
+        "subject": "Your FakeMail Account",
+        "cost": 1000,
+        "body": "<p>Hi there,</p><p>Your FakeMail account is ready to use. Remember, this email client does not send or receive real emails!</p><p>Best regards,<br>FakeMail Team</p>"
+    },
+    {
+        "id": "2",
+        "subject": "Important Update",
+        "cost": 1000,
+        "body": "<p>Hi there,</p><p>This is just a test email to let you know that this client is for demonstration purposes only.</p><p>Best regards,<br>FakeMail Team</p>"
+    }
+]
