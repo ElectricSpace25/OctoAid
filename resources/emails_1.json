@@ -15,18 +15,18 @@
         "id": "1_2",
         "subject": "November 2",
         "cost": 1000,
-        "body": "<p>Hi there,</p><p>Your FakeMail account is ready to use. Remember, this email client does not send or receive real emails!</p><p>Best regards,<br>FakeMail Team</p>"
+        "body": "<p>Hi there,</p><p>This is an email</p><p>Best,<br>Someone</p>"
     },
     {
         "id": "1_3",
         "subject": "November 3",
         "cost": 1000,
-        "body": "<p>Hi there,</p><p>This is just a test email to let you know that this client is for demonstration purposes only.</p><p>Best regards,<br>FakeMail Team</p>"
+        "body": "<p>Hi there,</p><p>This is an email</p><p>Best,<br>Someone</p>"
     },
     {
         "id": "1_4",
         "subject": "November 4",
         "cost": 1000,
-        "body": "<p>Hi there,</p><p>This is just a test email to let you know that this client is for demonstration purposes only.</p><p>Best regards,<br>FakeMail Team</p>"
+        "body": "<p>Hi there,</p><p>This is an email</p><p>Best,<br>Someone</p>"
     }
 ]
