@@ -1,11 +1,13 @@
 let emails = [];
-let money = 2000;
-let day = 1;
+let money = 10000;
+let monthIndex = 0;
+const months = ["November", "December", "January", "February", "March", "April"];
 
-async function fetchEmails() {
+async function fetchEmails(month) {
     try {
-        const response = await fetch('emails.json');
-        emails = await response.json();
+        const response = await fetch(`resources/emails_${monthIndex}.json`);
+        const newEmails = await response.json();
+        emails = emails.concat(newEmails); // Append new emails to the existing list
         renderEmailList();
     } catch (error) {
         console.error('Error fetching emails:', error);
@@ -75,16 +77,22 @@ function renderEmailList() {
 }
 
 function updateStatusBar() {
-    document.getElementById('money').textContent = money;
+    document.getElementById('money').textContent = money.toLocaleString();
 }
 
-function nextDay() {
-    day++;
-    money += 100; // Add new money for the day
-    document.getElementById('day').textContent = day;
+function nextMonth() {
+    monthIndex = (monthIndex + 1) % months.length; // Cycle through months
+    const currentMonth = months[monthIndex];
+    money += 100; // Add new money for the month
+    document.getElementById('month').textContent = currentMonth;
     updateStatusBar();
-    fetchEmails(); // Load new batch of emails
+    fetchEmails(currentMonth); // Load new batch of emails for the current month
 }
 
 // Fetch and render emails on page load
-fetchEmails();
+fetchEmails(months[monthIndex]);
+document.getElementById('money').textContent = money.toLocaleString();
+document.getElementById('month').textContent = months[monthIndex];
+
+// Add event listener for the button to go to the next month
+document.getElementById('next-month-button').addEventListener('click', nextMonth);

@@ -110,10 +110,6 @@ body {
     margin-right: 20px; /* Space between title and the next item */
 }
 
-.status-items {
-    display: flex;
-}
-
 .status-item {
     background-color: #fff;
     border: 1px solid #ddd;
@@ -134,4 +130,18 @@ body {
     background-color: #d4edda;
     border: 1px solid #c3e6cb;
     color: #155724;
+}
+
+.end-month-button {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add some padding */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make it inline-block */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Add some margin */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    border-radius: 5px; /* Rounded corners */
 }
