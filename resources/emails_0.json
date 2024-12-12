@@ -1,32 +1,8 @@
 [
     {
-        "id": "0",
+        "id": "0_0",
         "subject": "Welcome to OctoAid!",
         "cost": 0,
-        "body": "<p>Hey,</p><p>Welcome to OctoAid! Your should have already received your first batch of requests in your inbox. Approve the people who need the most urgent help, and remember we have a budget to stick to! Donations don't grow on trees. This week we have $5,000 to burn, so use it wisely.</p><p>Good luck,<br>OctoAid Manager</p>"
-    },
-    {
-        "id": "1",
-        "subject": "Please Help Me Stay Mobile",
-        "cost": 1500,
-        "body": "<p>Dear OctoAid,</p><p>My name is Emma, and I’m reaching out because my wheelchair is falling apart. The frame has cracks, and one of the wheels wobbles constantly, making it unsafe to use. I rely on it daily to get to work and visit my family. A new one would cost $1,500, which I can’t afford on my income. Any help would mean the world to me.</p><p>Thank you for considering my request,<br>Emma Sullivan</p>"
-    },
-    {
-        "id": "2",
-        "subject": "Your FakeMail Account",
-        "cost": 1000,
-        "body": "<p>Hi there,</p><p>Your FakeMail account is ready to use. Remember, this email client does not send or receive real emails!</p><p>Best regards,<br>FakeMail Team</p>"
-    },
-    {
-        "id": "3",
-        "subject": "Important Update",
-        "cost": 1000,
-        "body": "<p>Hi there,</p><p>This is just a test email to let you know that this client is for demonstration purposes only.</p><p>Best regards,<br>FakeMail Team</p>"
-    },
-    {
-        "id": "4",
-        "subject": "Important Update",
-        "cost": 1000,
-        "body": "<p>Hi there,</p><p>This is just a test email to let you know that this client is for demonstration purposes only.</p><p>Best regards,<br>FakeMail Team</p>"
+        "body": "<p>Hey,</p><p>Welcome to OctoAid! We're glad to have you as part of the team.</p><p>Starting next month, you'll get emails with funding requests from disabled people in need. Your job is to read each request and choose which to accept and which to deny by clicking the corresponding button. Each request has a different cost, and we have a limited budget each month, so keep an eye on our remaining money, which you can see on the top of the screen. When you're done, click the button on the top right to end your shift (but you have to accept or deny evey request first!)</p><p>This isn't an easy job, but we just have to stay focused on the people we can help. When you're ready, click the button on the top right to end your shift.</p><p>Best regards,<br>OctoAid Manager</p>"
     }
 ]

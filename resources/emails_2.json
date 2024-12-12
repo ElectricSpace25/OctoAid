@@ -1,31 +1,31 @@
 [
     {
-        "id": "0",
-        "subject": "Monthly Budget",
-        "cost": 0,
-        "body": "<p>Hey,</p><p>Happy new year! We got tons of donations last month - giving season is always a hit - so we've got a budget of $20,000!! Keep it up!</p><p>Best regards,<br>OctoAid Manager</p>"
+        "id": "2_0",
+        "subject": "Monthly Update - December",
+        "cost": 1000,
+        "body": "<p>Hey,</p><p>Congrats on your first month, you did great! I know these decisions are hard, but we just have to focus on the people we can help. Donations were fairly stable last month, so we have a budget of $9,000. You can also still use any leftover funds from last month. Donations always go up around Christmas, so get excited for the budget next month!</p><p>Best regards,<br>OctoAid Manager</p>"
     },
     {
-        "id": "1",
-        "subject": "Please Help Me Stay Mobile",
+        "id": "2_1",
+        "subject": "December 1",
         "cost": 1500,
         "body": "<p>Dear OctoAid,</p><p>My name is Emma, and I’m reaching out because my wheelchair is falling apart. The frame has cracks, and one of the wheels wobbles constantly, making it unsafe to use. I rely on it daily to get to work and visit my family. A new one would cost $1,500, which I can’t afford on my income. Any help would mean the world to me.</p><p>Thank you for considering my request,<br>Emma Sullivan</p>"
     },
     {
-        "id": "2",
-        "subject": "Your FakeMail Account",
+        "id": "2_2",
+        "subject": "December 2",
         "cost": 1000,
         "body": "<p>Hi there,</p><p>Your FakeMail account is ready to use. Remember, this email client does not send or receive real emails!</p><p>Best regards,<br>FakeMail Team</p>"
     },
     {
-        "id": "3",
-        "subject": "Important Update",
+        "id": "2_3",
+        "subject": "December 3",
         "cost": 1000,
         "body": "<p>Hi there,</p><p>This is just a test email to let you know that this client is for demonstration purposes only.</p><p>Best regards,<br>FakeMail Team</p>"
     },
     {
-        "id": "4",
-        "subject": "Important Update",
+        "id": "2_4",
+        "subject": "December 4",
         "cost": 1000,
         "body": "<p>Hi there,</p><p>This is just a test email to let you know that this client is for demonstration purposes only.</p><p>Best regards,<br>FakeMail Team</p>"
     }
