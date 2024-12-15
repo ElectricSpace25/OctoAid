@@ -58,8 +58,8 @@ function renderEmailList(selectedEmailId = null) {
             emailsByMonth[month].forEach(email => {
                 // Check if the email has a dependency and if the dependency is approved
                 if (email.dependency) {
-                    const dependentEmail = findEmailById(email.dependency);
-                    if (!dependentEmail || dependentEmail.status !== 'approved') {
+                    const dependentEmail = findEmailById(email.dependency.split(" ")[0]);
+                    if (!dependentEmail || dependentEmail.status !== email.dependency.split(" ")[1]) {
                         email.status = 'skipped';
                         return; // Skip rendering this email
                     }
