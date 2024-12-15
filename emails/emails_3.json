@@ -9,7 +9,7 @@
     {
         "id": "3_1",
         "subject": "Chirper Feed",
-        "dependency": "",
+        "dependency": "2_2",
         "cost": 0,
         "body": "<h2 style=\"color: #2B3277\"><img src=\"images/chirper.png\" style=\"height: 48px; width: auto; vertical-align: middle;\">   &nbspHere's what you missed on Chirper!</h2><hr class=\"solid\"><img src=\"images/mom_post_accept.png\" alt=\"Screenshot of a social media post. Vanessa posted 'Looks like the disability mom retreat isn't happening girls' and recieved two sad replies from other moms.\"></img>"
     },
