@@ -1,7 +1,7 @@
 import { Email } from './email.js';
 
 let money = 0;
-let monthIndex = 3;
+let monthIndex = 0;
 const months = ["November", "December", "January", "February"];
 const emailsByMonth = {};
 
