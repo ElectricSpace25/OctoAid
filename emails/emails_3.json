@@ -11,14 +11,14 @@
         "subject": "Chirper Feed",
         "dependency": "2_2 approved",
         "cost": 0,
-        "body": "<h2 style=\"color: #2B3277\"><img src=\"images/chirper.png\" style=\"height: 48px; width: auto; vertical-align: middle;\">   &nbspHere's what you missed on Chirper!</h2><hr class=\"solid\"><img src=\"images/mom_post_accept.png\" alt=\"Screenshot of a social media post. Vanessa posted 'Looks like the disability mom retreat isn't happening girls' and recieved two sad replies from other moms.\"></img>"
+        "body": "<h2 style=\"color: #2B3277\"><img src=\"images/chirper.png\" style=\"height: 48px; width: auto; vertical-align: middle;\" alt=\"Simple blue bird logo\">   &nbspHere's what you missed on Chirper!</h2><hr class=\"solid\"><img src=\"images/mom_post_accept.png\" alt=\"Screenshot of a social media post. Vanessa posted 'THE DISABILITY MOM RETREAT IS HAPPENING!!! THANK YOU @OCTOAID' and recieved two excited replies from other moms.\"></img>"
     },
     {
         "id": "3_2",
         "subject": "Chirper Feed",
         "dependency": "2_2 denied",
         "cost": 0,
-        "body": "<h2 style=\"color: #2B3277\"><img src=\"images/chirper.png\" style=\"height: 48px; width: auto; vertical-align: middle;\">   &nbspHere's what you missed on Chirper!</h2><hr class=\"solid\"><img src=\"images/mom_post_reject.png\" alt=\"Screenshot of a social media post. Vanessa posted 'Looks like the disability mom retreat isn't happening girls' and recieved two sad replies from other moms.\"></img>"
+        "body": "<h2 style=\"color: #2B3277\"><img src=\"images/chirper.png\" style=\"height: 48px; width: auto; vertical-align: middle;\" alt=\"Simple blue bird logo\">   &nbspHere's what you missed on Chirper!</h2><hr class=\"solid\"><img src=\"images/mom_post_reject.png\" alt=\"Screenshot of a social media post. Vanessa posted 'Looks like the disability mom retreat isn't happening girls' and recieved two disappointed replies from other moms.\"></img>"
     },
     {
         "id": "3_3",
