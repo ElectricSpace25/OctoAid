@@ -2,7 +2,7 @@ import { Email } from './email.js';
 
 let money = 0;
 let monthIndex = 0;
-const months = ["November", "December", "January", "February"];
+const months = ["November", "December", "January", "February", "March"];
 const emailsByMonth = {};
 
 async function fetchEmails() {
@@ -188,8 +188,10 @@ document.getElementById('month').textContent = months[monthIndex];
 // Add event listener for the button to go to the next month
 document.getElementById('end-month-button').addEventListener('click', () => {
     const currentMonthEmails = emailsByMonth[months[monthIndex]] || [];
-    if (currentMonthEmails.some(email => email.status === 'pending')) {
-        alert("Read every email and accept/reject all requests before ending the month!")
+    if (monthIndex == 4) {
+        alert("This is the end of OctoAid!");
+    } else if (currentMonthEmails.some(email => email.status === 'pending')) {
+        alert("Read every email and accept/reject all requests before ending the month!");
     } else {
         const userConfirmed = confirm('Are you sure you want to end the month?');
         if (userConfirmed) {

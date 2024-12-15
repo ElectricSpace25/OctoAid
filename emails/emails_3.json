@@ -18,7 +18,7 @@
         "subject": "Lost my job",
         "dependency": "",
         "cost": 3000,
-        "body": "<p>Hello OctoAid,</p><p>My name's Aaron but I go by AJ. I was diagnosed with a genetic connective tissue disorder last month, and everything went to hell. I've had to learn how to walk again, and I just recently got let go from my job. I'm trying to advocate for my ADA rights, but I have no savings and need help paying living expenses while I scramble for a new job. Is there any way you could spare $3,000? </p><p>Best,<br>AJ</p>"
+        "body": "<p>Hello OctoAid,</p><p>My name's Aaron but I go by AJ. I was diagnosed with a genetic connective tissue disorder last month, and everything went to hell. I've had to learn how to walk again, and I just recently got let go from my job in a clearly discriminatory decision. I'm trying to advocate for my ADA rights, but I have no savings and need help paying living expenses while I scramble for a new job. Is there any way you could spare $3,000? </p><p>Best,<br>AJ</p>"
     },
     {
         "id": "3_3",
@@ -31,8 +31,8 @@
         "id": "3_4",
         "subject": "Service dog for MS",
         "dependency": "",
-        "cost": 8500,
-        "body": "<p>Hi there,</p><p>I have multiple sclerosis and it has always been my dream to get a service dog so I can live more independently. But it is very expensive so I would need $8,500 to get the right dog breed and afford training. I have been trying to save money from my job, but I'm barely making ends meet as it is. Can you help me?</p><p>Best,<br>Amara</p>"
+        "cost": 6500,
+        "body": "<p>Hi there,</p><p>I have multiple sclerosis and it has always been my dream to get a service dog so I can live more independently. But it is very expensive so I would need $6,500 to get the right dog breed and afford training. I have been trying to save money from my job, but I'm barely making ends meet as it is. Can you help me?</p><p>Best,<br>Amara</p>"
     },
     {
         "id": "3_5",
@@ -46,6 +46,6 @@
         "subject": "Weighted blanket",
         "dependency": "",
         "cost": 200,
-        "body": "<p>Hi OctoAid,</p><p>A few weeks ago I realized I'm autistic. Social media was a huge help and introduced me to a lot of autistic creators who helped me discover my autism. I haven't had a chance to seek a professional diagnosis yet, but I've been doing some research and I think a weighted blanket would be a HUGE help for me. Only problem is it's $200!! I really can't afford that right now, but I just know that a weighted blanket would be amazing. Sorry to bother you but do you think you could lend me $200?</p><p>Best,<br>Jamie</p>"
+        "body": "<p>Hi OctoAid,</p><p>A few weeks ago I realized I'm autistic. Social media was a huge help and introduced me to a lot of autistic creators who helped me discover my autism. I haven't had a chance to seek a professional diagnosis yet, but I've been doing some research and I think a weighted blanket would be a HUGE help for me. Only problem is it's $200!! I really can't afford that right now, but I just know that this blanket would be amazing. Sorry to bother you but do you think you could lend me $200?</p><p>Best,<br>Jamie</p>"
     }
 ]

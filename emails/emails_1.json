@@ -15,23 +15,23 @@
     },
     {
         "id": "1_2",
-        "subject": "Fibromyalgia treatment",
+        "subject": "Recovering from broken arm",
         "dependency": "",
-        "cost": 7100,
-        "body": "<p>Hello OctoAid,</p><p>My name is Casey and I'm asking for $7,100 to cover the costs of treatment for my fibromyalgia. rTMS is a new treatment that could drastically reduce my pain and improve my quality of life, but it's not available through my insurance. This would be life changing for me, so I appreciate any help you can give.</p><p>Best,<br>Casey Joy</p>"
+        "cost": 3000,
+        "body": "<p>Dear OctoAid,</p><p>I'm a full-time wheelchair-user, and I recently broke my arm while going down a dangerous ramp outside my building. I'm going to need around the clock care to get through my recovery, which is going to cost me $3,000 that I simply do not have. I hate having to ask like this, but is there any way you could help?</p><p>Thanks,<br>Sanjay</p>"
     },
     {
         "id": "1_3",
-        "subject": "Recovering from broken arm",
+        "subject": "Fibromyalgia treatment",
         "dependency": "",
-        "cost": 1000,
-        "body": "<p>Dear OctoAid,</p><p>I'm a full-time wheelchair-user, and I recently broke my arm while going down a dangerous ramp outside my building. I'm going to need around the clock care to get through my recovery, which is going to cost me $1,000 that I simply do not have. I hate having to ask like this, but is there any way you could help?</p><p>Thanks,<br>Sanjay</p>"
+        "cost": 7000,
+        "body": "<p>Hello OctoAid,</p><p>My name is Casey and I'm asking for $7,000 to cover the costs of treatment for my fibromyalgia. rTMS is a new treatment that could drastically reduce my pain and improve my quality of life, but it's not available through my insurance. This would be life changing for me, so I appreciate any help you can give.</p><p>Best,<br>Casey Joy</p>"
     },
     {
         "id": "1_4",
         "subject": "Please save my cat!!",
         "dependency": "",
-        "cost": 4000,
-        "body": "<p>Hi OctoAid,</p><p>I have a cat named Macaroni and he means the entire world to me. I'm autistic and have PTSD and Macaroni calms me during my meltdowns and provides so much love and support. He needs emergency surgery for a urinary obstruction and there's no way I can afford the $4,000 dollar bill. Please please save my kitty, he's the only thing keeping me together. </p><p>Gratefully,<br>Sandra</p>"
+        "cost": 5500,
+        "body": "<p>Hi OctoAid,</p><p>I have a cat named Macaroni and he means the entire world to me. I'm autistic and have PTSD and Macaroni calms me during my meltdowns and provides so much love and support. He needs emergency surgery for a urinary obstruction and there's no way I can afford the $5,500 bill. Please please save my kitty, he's the only thing keeping me together. </p><p>Gratefully,<br>Sandra</p>"
     }
 ]
