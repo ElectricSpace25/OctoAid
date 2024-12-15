@@ -1,0 +1,51 @@
+[
+    {
+        "id": "3_0",
+        "subject": "Monthly Budget - February",
+        "dependency": "",
+        "cost": 0,
+        "body": "<p>Hey,</p><p>Got some not so great news. We had some trouble with donor retention, so it looks like there's only $5,000 to go around this month. Do your best to make every dollar count!</p><p>Best,<br>OctoAid Manager</p>"
+    },
+    {
+        "id": "3_1",
+        "subject": "Chirper Feed",
+        "dependency": "",
+        "cost": 0,
+        "body": "<h2 style=\"color: #2B3277\"><img src=\"images/chirper.png\" style=\"height: 48px; width: auto; vertical-align: middle;\">   &nbspHere's what you missed on Chirper!</h2><hr class=\"solid\"><img src=\"images/mom_post_accept.png\" alt=\"Screenshot of a social media post. Vanessa posted 'Looks like the disability mom retreat isn't happening girls' and recieved two sad replies from other moms.\"></img>"
+    },
+    {
+        "id": "3_2",
+        "subject": "Lost my job",
+        "dependency": "",
+        "cost": 3000,
+        "body": "<p>Hello OctoAid,</p><p>My name's Aaron but I go by AJ. I was diagnosed with a genetic connective tissue disorder last month, and everything went to hell. I've had to learn how to walk again, and I just recently got let go from my job. I'm trying to advocate for my ADA rights, but I have no savings and need help paying living expenses while I scramble for a new job. Is there any way you could spare $3,000? </p><p>Best,<br>AJ</p>"
+    },
+    {
+        "id": "3_3",
+        "subject": "Stolen Crutches",
+        "dependency": "",
+        "cost": 500,
+        "body": "<p>Hello.. I am Robert and my wife uses crutches to walk because she has bad &nbsp arthritis. In her knee and hips. She is a beautiful person and is always helping others. Some body stole her crutches 3 days ago and insurance will not give her new ones. She needs $500 to replace them. Thank you .</p><p>-Robert</p>"
+    },
+    {
+        "id": "3_4",
+        "subject": "Service dog for MS",
+        "dependency": "",
+        "cost": 8500,
+        "body": "<p>Hi there,</p><p>I have multiple sclerosis and it has always been my dream to get a service dog so I can live more independently. But it is very expensive so I would need $8,500 to get the right dog breed and afford training. I have been trying to save money from my job, but I'm barely making ends meet as it is. Can you help me?</p><p>Best,<br>Amara</p>"
+    },
+    {
+        "id": "3_5",
+        "subject": "Hoping for another miracle",
+        "dependency": "1_1",
+        "cost": 2000,
+        "body": "<p>Dear OctoAid,</p><p>This is Emma again. I want to thank you so much for helping with my rent back in December. I couldn't have survived without you. Unfortunately, I'm still waiting on the decision regarding my disability benefits. I'm so sorry to ask even more of you, but is there any way you could spare another $2,000 for rent? I really can't afford to lose my home, and I don't know who else to turn to.</p><p>Eternally grateful,<br>Emma Sullivan</p>"
+    },
+    {
+        "id": "3_6",
+        "subject": "Weighted blanket",
+        "dependency": "",
+        "cost": 200,
+        "body": "<p>Hi OctoAid,</p><p>A few weeks ago I realized I'm autistic. Social media was a huge help and introduced me to a lot of autistic creators who helped me discover my autism. I haven't had a chance to seek a professional diagnosis yet, but I've been doing some research and I think a weighted blanket would be a HUGE help for me. Only problem is it's $200!! I really can't afford that right now, but I just know that a weighted blanket would be amazing. Sorry to bother you but do you think you could lend me $200?</p><p>Best,<br>Jamie</p>"
+    }
+]

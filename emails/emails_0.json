@@ -2,6 +2,7 @@
     {
         "id": "0_0",
         "subject": "Welcome to OctoAid!",
+        "dependency": "",
         "cost": 0,
         "body": "<p>Hey,</p><p>Welcome to OctoAid! We're glad to have you as part of the team.</p><p>Starting next month, you'll get emails with funding requests from disabled people in need. Your job is to read each request and choose which to accept and which to deny by clicking the corresponding button. Each request has a different cost, and we have a limited budget each month, so keep an eye on our remaining money, which you can see on the top of the screen. When you're done, click the button on the top right to end your shift (but you have to accept or deny evey request first!)</p><p>This isn't an easy job, but we just have to stay focused on the people we can help. When you're ready, click the button on the top right to end your shift.</p><p>Best regards,<br>OctoAid Manager</p>"
     }

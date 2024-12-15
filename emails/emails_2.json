@@ -1,0 +1,45 @@
+[
+    {
+        "id": "2_0",
+        "subject": "Monthly Update - January",
+        "dependency": "",
+        "cost": 0,
+        "body": "<p>Happy New Year!</p><p>Congrats on your first month! I know these decisions are hard, but you're doing great. We got a ton of donations around Christmas last month, so we have a budget of $20,000! You can also use any money leftover from last month. Keep up the good work!</p><p>Best regards,<br>OctoAid Manager</p>"
+    },
+    {
+        "id": "2_1",
+        "subject": "New year new leg?",
+        "dependency": "",
+        "cost": 10000,
+        "body": "<p>Hey OctoAid,</p>My name is Liam and I recently became an amputee due to osteosarcoma (bone cancer). I'm in a wheelchair now, but I've been fighting with my insurance to get a prosthetic leg so I can be more mobile and hopefully get back to work. Unfortunately, insurance refuses to cover the prosthetic because they already covered the wheelchair and they don't think I need \"another mobility aid\" The out of pocket cost is a lot - $10,000 - but it would mean the world to me if you guys could cover that! I'm normally the one donating, not asking for donations, but I would be so grateful for your help. <p></p><p>Crossing my fingers!<br>Liam</p>"
+    },
+    {
+        "id": "2_2",
+        "subject": "Disability mom retreat!",
+        "dependency": "",
+        "cost": 3000,
+        "body": "<p>Hi OctoAid,</p><p>This is Vanessa representing a group of disability moms! We all love our kids to death, but as caregivers we have to give so much of ourselves, and it starts to take a toll on our wellbeing. We're asking for $3,000 to go on a weekend retreat so we can recharge and return stronger than ever. Help us make this happen! </p><p>Best,<br>Vanessa</p>"
+    },
+    {
+        "id": "2_3",
+        "subject": "Help me finish my degree",
+        "dependency": "",
+        "cost": 12000,
+        "body": "<p>Hello!</p><p>I'm a junior in college studying computer science and I've had cerebral palsy my whole life. My mom has financially supported me through college, including paying for my accommodations, but she recently lost her job and can no longer afford what I need. I'm requesting $12,000 to cover tuition and accommodations for next year so I can complete my college degree and get a job and support my mom. </p><p>Thanks,<br>Rowan</p>"
+    },
+    {
+        "id": "2_4",
+        "subject": "Funeral expenses",
+        "dependency": "",
+        "cost": 5000,
+        "body": "<p>Dear OctoAid,</p><p>My name is David Mitchell. My son suffered from epilepsy and sadly recently passed away due to complications from a seizure. My family is devastated and we are trying to honor him with a proper funeral. Please help us during this difficult time. $5,000 will all go to my son's funeral expenses. </p><p>Best regards,<br>David Mitchell</p>"
+    },
+    {
+        "id": "2_5",
+        "subject": "Macaroni thanks you!!",
+        "dependency": "1_4",
+        "cost": 0,
+        "body": "<p>Dear OctoAid,</p><p>Thank you so much for paying Macaroni's medical bills!! You have no idea how much this means to me. He's doing so much better now!</p><img src=\"images/cat.jpg\" alt=\"Photograph of an orange cat sticking out his tongue.\" style=\"width: 200px; height: auto;\"></img><p>Thank you thank you thank you,<br>Sandra</p>"
+    }
+    
+]

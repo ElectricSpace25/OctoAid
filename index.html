@@ -4,24 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OctoAid - Inbox</title>
-    <link rel="icon" href="resources/logo.png" type="image/png">
+    <link rel="icon" href="images/logo.png" type="image/png">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="status-bar">
         <div class="status-title">
-            <img src="resources/logo.png" alt="OctoAid" style="width: 30px; height: 30px; vertical-align: top;">
+            <img src="images/logo.png" alt="A heart made of two tentacles, representing the OctoAid logo." style="width: 30px; height: 30px; vertical-align: top;">
             OctoAid
         </div>
         <div class="status-item day-box"><b>Month:</b>&nbsp<span id="month">?</span></div>
         <div class="status-item money-box"><b>Money:</b>&nbsp$<span id="money">?</span></div>
+        <button id="about-button" style="position: absolute; right: 160px;">i</button>
         <button class="end-month-button" id="end-month-button" style="position: absolute; right: 30px;">End Month</button>
     </div>
     <div class="sidebar">
         <ul class="email-list"></ul>
     </div>
     <div class="main-content"></div>
-    
     <script type="module" src="script.js"></script>
     <script type="module" src="email.js"></script>
 </body>
