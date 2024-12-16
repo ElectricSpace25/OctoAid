@@ -37,7 +37,7 @@
     {
         "id": "2_5",
         "subject": "Macaroni thanks you!!",
-        "dependency": "1_4",
+        "dependency": "1_4 approved",
         "cost": 0,
         "body": "<p>Dear OctoAid,</p><p>Thank you so much for paying Macaroni's medical bills!! You have no idea how much this means to me. He's doing so much better now!</p><img src=\"images/cat.jpg\" alt=\"Photograph of an orange cat sticking out his tongue.\" style=\"width: 200px; height: auto;\"></img><p>Thank you thank you thank you,<br>Sandra</p>"
     }
