@@ -1,10 +1,10 @@
 [
     {
         "id": "3_0",
-        "subject": "Monthly Budget - February",
+        "subject": "Monthly Update - February",
         "dependency": "",
         "cost": 0,
-        "body": "<p>Hey,</p><p>Got some not so great news. We had some trouble with donor retention, so it looks like there's only $5,000 to go around this month. Do your best to make every dollar count!</p><p>Best,<br>OctoAid Manager</p>"
+        "body": "<p>Hey,</p><p>Got some not so great news. We had some trouble with donor retention in January, so it looks like there's only $5,000 to go around this month. Do your best to make every dollar count!</p><p>Best,<br>OctoAid Manager</p>"
     },
     {
         "id": "3_1",
@@ -32,7 +32,7 @@
         "subject": "Stolen Crutches",
         "dependency": "",
         "cost": 500,
-        "body": "<p>Hello.. I am Robert and my wife uses crutches to walk because she has bad &nbsp arthritis. In her knee and hips. She is a beautiful person and is always helping others. Some body stole her crutches 3 days ago and insurance will not give her new ones. She needs $500 to replace them. Thank you .</p><p>-Robert</p>"
+        "body": "<p>Hello.. I am Robert and my wife uses crutches to walk because she has bad &nbsp arthritis. In her knee and hips. She is a wonderful person and is always helping others. Some body stole her crutches 3 days ago and insurance will not give her new ones. She needs $500 to replace them. Thank you .</p><p>-Robert</p>"
     },
     {
         "id": "3_5",

@@ -201,5 +201,5 @@ document.getElementById('end-month-button').addEventListener('click', () => {
 });
 
 document.getElementById('about-button').addEventListener('click', () => {
-    window.open('links.html', '_blank');
+    window.open('credits.html', '_blank');
 });

@@ -4,6 +4,6 @@
         "subject": "Thanks for playing!",
         "dependency": "",
         "cost": 0,
-        "body": "<p>This is the end of the game so far. I hope you enjoyed OctoAid! Refresh the page to play again.</p>"
+        "body": "<p>This is the end of the game so far. I hope you enjoyed OctoAid! Press the \"i\" button in the top right of the screen to view the credits. Refresh the page to play again.</p>"
     }
 ]
